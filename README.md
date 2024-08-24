@@ -66,3 +66,9 @@ Check out [our documentation](https://docs.astro.build) or jump into our [Discor
 ## Credit
 
 This theme is based off of the lovely [Bear Blog](https://github.com/HermanMartinus/bearblog/).
+
+## reference link
+
+- [emoji](https://emojicopy.com/)
+- [astro](https://astro.build/)
+- [icones](https://icones.js.org/)
